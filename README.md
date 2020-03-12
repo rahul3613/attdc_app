@@ -9,7 +9,8 @@ attendance app
 6. Install getmac
 7. Install openpyxl
 8. Clone the reopsitry using git clone https://github.com/rahul3613/attdc_app
-9. Change directory to attdc_app/sas
+9. Change directory to attdc_app/sas/sas
 10. Know your IP address with command 'ifconfig' and add it to the Allowed Host list of settings.py file.  
+11. Come back to attdc_app/sas
 10. Run the server with command : python manage.py runserver 0:8000
-11. Press Ctrl + c to stop the server.
+11. Press Ctrl + c to stop the server
